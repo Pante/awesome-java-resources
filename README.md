@@ -4,8 +4,7 @@ Java is a high-level, object-oriented programming language that has seen widespr
 
 Contributions are greatly appreciated!
 
-Table of Content:
-* 
+Table of Content: WIP
 
 ## Java Fundementals
 
