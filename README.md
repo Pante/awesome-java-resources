@@ -6,15 +6,23 @@ Contributions are greatly appreciated!
 
 Table of Content: WIP
 
+## General
+
+### Courses/Tutorials/CodeLabs
+* [Roadmap.sh](https://roadmap.sh/java) (Free) - A comprehensive roadmap that contains even more resources for learning Java.
+
 ## Java Fundementals
 
 ### Articles/Blogs
-* [Oracle's Java tutorials](https://docs.oracle.com/javase/tutorial/) (Free) - Although written for Java 8, it still does a good job of covering the fundamentals of Java.
+
 
 ### Books
 * [Head First Java, 3rd Edition](https://www.oreilly.com/library/view/head-first-java/9781492091646/) (Paid) - A classic that covers a variety of basic and advanced topics, including lambdas, streams, generics, threading, networking, and the dreaded desktop GUI.
 
 ### Courses/Tutorials/CodeLabs
+* [JetBrains Academy](https://hyperskill.org/tracks?_gl=1%2an8e0qa%2a_ga%2aMTAzNzMzODAwMy4xNTYyMjEzOTY2%2a_ga_9J976DJZ68%2aMTY2Nzc0OTAxNy4xNS4wLjE2Njc3NDkwMTcuNjAuMC4w&_ga=2.208475922.1098163033.1667749019-1037338003.1562213966&category=2) (Free & Paid) - Multiple tracks catered towards developers with varying among of prior programming experience.
+* [Oracle's Java tutorials](https://docs.oracle.com/javase/tutorial/) (Free) - Although written for Java 8, it still does a good job of covering the fundamentals of Java.
+* [University of Helsinki's MOOC](https://java-programming.mooc.fi/) (Free) - A MOOC on Java fundamentals, video lectures are in Finnish with English subtitles.
 
 ### Videos
 
