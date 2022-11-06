@@ -7,7 +7,7 @@ Contributions are greatly appreciated!
 Table of Content:
 * 
 
-# Java Fundementals
+## Java Fundementals
 
 ### Articles/Blogs
 
@@ -18,7 +18,7 @@ Table of Content:
 ### Videos
 
 
-# Data Structures & Algorithms
+## Data Structures & Algorithms
 
 ### Articles/Blogs
 
@@ -29,7 +29,7 @@ Table of Content:
 ### Videos
 
 
-# Concurrency
+## Concurrency
 
 ### Articles/Blogs
 
@@ -40,7 +40,7 @@ Table of Content:
 ### Videos
 
 
-# JavaFX/Swing
+## JavaFX/Swing
 
 ### Articles/Blogs
 
@@ -51,7 +51,7 @@ Table of Content:
 ### Videos
 
 
-# SpringBoot
+## SpringBoot
 
 ### Articles/Blogs
 
