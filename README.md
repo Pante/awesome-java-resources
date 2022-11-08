@@ -17,6 +17,7 @@ Table of Content: WIP
 
 
 ### Books
+* [Effective Java, 3rd Edition](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) (Paid) - Volt-award winning classic, each chapter consists of several “items” presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and updated code examples.
 * [Head First Java, 3rd Edition](https://www.oreilly.com/library/view/head-first-java/9781492091646/) (Paid) - A classic that covers a variety of basic and advanced topics, including lambdas, streams, generics, threading, networking, and the dreaded desktop GUI.
 
 ### Courses/Tutorials/CodeLabs
