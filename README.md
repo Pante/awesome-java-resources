@@ -1,6 +1,6 @@
 # Awesome Java Learning Resources
 
-Java is a high-level, object-oriented programming language that has seen widespread adoption since launch. However, quality resources for learning Java are difficult to find among the myriad of available websites. This list seeks to provide a variety of different learning resources, both free and paid. 
+Java is a high-level, object-oriented programming language that has seen widespread adoption since launch. However, quality resources for learning Java are difficult to find among the myriad of available websites. This list seeks to provide a variety of different learning resources, both free and paid.
 
 Contributions are greatly appreciated!
 
@@ -11,10 +11,13 @@ Table of Content: WIP
 ### Courses/Tutorials/CodeLabs
 * [Roadmap.sh](https://roadmap.sh/java) (Free) - A comprehensive roadmap that contains even more resources for learning Java.
 
+### Communities
+* [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - a subreddit for all questions related to programming in any language.
+* [r/learnjava](https://www.reddit.com/r/learnjava/) - a subreddit for resources on learning Java.
+
 ## Java Fundementals
 
 ### Articles/Blogs
-
 
 ### Books
 * [Effective Java, 3rd Edition](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) (Paid) - Volt-award winning classic, each chapter consists of several “items” presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and updated code examples.
@@ -26,7 +29,7 @@ Table of Content: WIP
 * [University of Helsinki's MOOC](https://java-programming.mooc.fi/) (Free) - A MOOC on Java fundamentals, video lectures are in Finnish with English subtitles.
 
 ### Videos
-
+* [Java Tutorials For Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - A short introduction to programming in Java by "Programming With Mosh".
 
 ## Data Structures & Algorithms
 
