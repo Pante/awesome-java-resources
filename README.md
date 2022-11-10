@@ -29,7 +29,7 @@ Table of Content: WIP
 * [University of Helsinki's MOOC](https://java-programming.mooc.fi/) (Free) - A MOOC on Java fundamentals, video lectures are in Finnish with English subtitles.
 
 ### Videos
-* [Java Tutorials For Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - A short introduction to programming in Java by "Programming With Mosh".
+* [Java Tutorials For Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) (Free) - A short introduction to programming in Java by "Programming With Mosh".
 
 ## Data Structures & Algorithms
 
