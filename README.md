@@ -14,6 +14,8 @@ Table of Content: WIP
 ### Communities
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - a subreddit for all questions related to programming in any language.
 * [r/learnjava](https://www.reddit.com/r/learnjava/) - a subreddit for resources on learning Java.
+* [Java Discord](https://discord.gg/FRYBnQgp68) - a Discord server for everything related to Java.
+* [Together Java](https://discord.gg/together-java-272761734820003841) - a Discord server for everything related to Java.
 
 ## Java Fundementals
 
