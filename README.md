@@ -17,7 +17,7 @@ Table of Content: WIP
 * [Java Discord](https://discord.gg/FRYBnQgp68) - A Discord server for everything related to Java.
 * [Together Java](https://discord.gg/together-java-272761734820003841) - A Discord server for everything related to Java.
 
-### Othes
+### Others
 [awesome-java](https://github.com/akullpp/awesome-java#awesome-lists) - A curated list of Java libraries & frameworks.
 
 ## Java Fundementals
