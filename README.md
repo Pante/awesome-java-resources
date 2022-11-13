@@ -12,10 +12,13 @@ Table of Content: WIP
 * [Roadmap.sh](https://roadmap.sh/java) (Free) - A comprehensive roadmap that contains even more resources for learning Java.
 
 ### Communities
-* [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - a subreddit for all questions related to programming in any language.
-* [r/learnjava](https://www.reddit.com/r/learnjava/) - a subreddit for resources on learning Java.
-* [Java Discord](https://discord.gg/FRYBnQgp68) - a Discord server for everything related to Java.
-* [Together Java](https://discord.gg/together-java-272761734820003841) - a Discord server for everything related to Java.
+* [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - A subreddit for all questions related to programming in any language.
+* [r/learnjava](https://www.reddit.com/r/learnjava/) - A subreddit for resources on learning Java.
+* [Java Discord](https://discord.gg/FRYBnQgp68) - A Discord server for everything related to Java.
+* [Together Java](https://discord.gg/together-java-272761734820003841) - A Discord server for everything related to Java.
+
+### Othes
+[awesome-java](https://github.com/akullpp/awesome-java#awesome-lists) - A curated list of Java libraries & frameworks.
 
 ## Java Fundementals
 
