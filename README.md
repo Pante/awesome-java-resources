@@ -28,6 +28,7 @@ Table of Content: WIP
 * [Effective Java, 3rd Edition](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) (Paid) - Volt-award winning classic, each chapter consists of several “items” presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and updated code examples.
 * [Head First Java, 3rd Edition](https://www.oreilly.com/library/view/head-first-java/9781492091646/) (Paid) - A classic that covers a variety of basic and advanced topics, including lambdas, streams, generics, threading, networking, and the dreaded desktop GUI.
 * [Thinking in Java, 4th Edition](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486) (Paid) - A classic that covers the fundamentals of Java.
+* [Java: A Beginner's Guide, Ninth Edition](https://www.amazon.co.uk/Java-Beginners-Guide-Herbert-Schildt/dp/1260463559) - A book that covers the basics and touches on advanced features, including multithreaded programming, generics, Lambda expressions, and Swing.
 
 ### Courses/Tutorials/CodeLabs
 * [JetBrains Academy](https://hyperskill.org/tracks?_gl=1%2an8e0qa%2a_ga%2aMTAzNzMzODAwMy4xNTYyMjEzOTY2%2a_ga_9J976DJZ68%2aMTY2Nzc0OTAxNy4xNS4wLjE2Njc3NDkwMTcuNjAuMC4w&_ga=2.208475922.1098163033.1667749019-1037338003.1562213966&category=2) (Free & Paid) - Multiple tracks catered towards developers with varying among of prior programming experience.
