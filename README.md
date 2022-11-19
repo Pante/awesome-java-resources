@@ -41,7 +41,7 @@ Table of Content: WIP
 ## Generics
 
 ### Articles/Blogs
-* [Oracle's Java Tutorial's Supplementary Generics Lesson](https://docs.oracle.com/javase/tutorial/extra/generics/intro.html) - Supplementary lessons on generics in Java
+* [Oracle's Java Tutorial's Supplementary Generics Lesson](https://docs.oracle.com/javase/tutorial/extra/generics/intro.html) (Free) - Supplementary lessons on generics in Java.
 
 ### Books
 
