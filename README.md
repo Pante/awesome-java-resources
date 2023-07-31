@@ -73,7 +73,7 @@ Table of Content: WIP
 ### Videos
 
 
-## SpringBoot
+## Spring Boot
 
 ### Articles/Blogs
 
